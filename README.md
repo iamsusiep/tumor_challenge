@@ -27,6 +27,5 @@ Generates a heatmap for any keras model trained on the slide dataset. Given a sl
 
 It takes about 30 minutes to generate a heatmap, depending on the zoom level and model used.
 
-![Example of heatmap](https://ibb.co/LpKQygq)
-
+![Example of heatmap](https://i.ibb.co/6sQvStp/download-5.png)
 
