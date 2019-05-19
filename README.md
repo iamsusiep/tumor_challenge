@@ -23,5 +23,10 @@ It will take ~15 to 20 hours to run the notebook.
 ## models.ipynb:
 
 ## heatmap.ipynb:
+Generates a heatmap for any keras model trained on the slide dataset. Given a slide, it uses a sliding window over the entire slide and uses the model to generate a prediction over the window. It uses a color gradient to show which areas the model has predicted to have the highest probability of containined tumour, and areas that have a predicted low probability.
+
+It takes about 30 minutes to generate a heatmap, depending on the zoom level and model used.
+
+![Example of heatmap](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjrhKPJgqjiAhVydt8KHZwhCqQQjRx6BAgBEAQ&url=https%3A%2F%2Fnews.nationalgeographic.com%2F2018%2F05%2Fanimals-cats-training-pets%2F&psig=AOvVaw2UbHUpAlQkaUKn6Zoxcqvy&ust=1558369944186575)
 
 
