@@ -1,4 +1,4 @@
-# tumor_challenge
+# Detecting cancerous cells in gigapixel images
 
 ## demo/presentation:
 YouTube link:
