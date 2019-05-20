@@ -29,3 +29,13 @@ It takes about 30 minutes to generate a heatmap, depending on the zoom level and
 
 ![Example of heatmap](https://i.ibb.co/6sQvStp/download-5.png)
 
+## compute_metrics.nb:
+This was a mathematica notebook used to generate the various metries to evaluate our model. The function defined takes in the counts of True Positives, True Negatives, False Positives and False Negatives and outputs the 6 different metrics that we used in evaluating our model. The 6 are:
+
+* Sensitivity/Recall
+* Specificity
+* Precision
+* Negative Predictive Value
+* F1-Score
+* MCC
+
