@@ -65,3 +65,4 @@ This was a mathematica notebook used to generate the various metries to evaluate
 ## Other Information
 Some outputs are missing, because we ran on local, or different notebook. 
 We didn't have time to complete re-running on the notebook.
+We ran multi-zoom on personal NVIDIA GPU desktop by connecting colab to local runtime.
