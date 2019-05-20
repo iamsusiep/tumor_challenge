@@ -4,6 +4,9 @@
 YouTube link:
 
 Presentation Link: https://docs.google.com/presentation/d/1E3XWvqCxJy-t4xHPb5mD3t1sU6h2WGekTyDEKKRZanA/edit?usp=sharing
+Models (.h5) and plot files: https://drive.google.com/open?id=1zxjpTnfmtFbW-vQAe-VYYIk5yhEVu-nV
+Dataset: https://drive.google.com/open?id=19jDzBJ0S5Rxz1V3a0_c2HYPAaRVVnWXl
+
 
 ## data_extract.ipynb:
 We mounted google drive to colab. In order to run the code, you must move drive folder with few slides and tumor masks prepared in advance with ASAP to "Colab Notebooks" folder in your drive. (https://drive.google.com/drive/folders/1rwWL8zU9v0M27BtQKI52bF6bVLW82RL5).
