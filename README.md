@@ -10,9 +10,6 @@ Models (.h5) and plot files: https://drive.google.com/open?id=1zxjpTnfmtFbW-vQAe
 
 Dataset: https://drive.google.com/open?id=19jDzBJ0S5Rxz1V3a0_c2HYPAaRVVnWXl
 
-
-Github Link: https://github.com/iamsusiep/tumor_challenge
-
 ## data_extract.ipynb:
 We mounted google drive to colab. In order to run the code, you must move drive folder with few slides and tumor masks prepared in advance with ASAP to "Colab Notebooks" folder in your drive. (https://drive.google.com/drive/folders/1rwWL8zU9v0M27BtQKI52bF6bVLW82RL5).
 
